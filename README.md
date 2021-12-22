@@ -1,23 +1,27 @@
-### Hi there! 👋
+### Di Xu's Home 
+
+[![ghpvc](https://komarev.com/ghpvc/?username=dixudx)](https://komarev.com/ghpvc/?username=dixudx)
+
+Hi there! 👋 I'm Di Xu.
+
+- 🔭 I’m currently working on cloud native stuffs, like [Kubernetes](https://github.com/kubernetes/kubernetes), [Clusternet](https://github.com/clusternet/clusternet) and etc.
+- 👍 I’m looking to collaborate on projects that empower cloud native productivity.
+
+In the past few years I've been working heavily in cloud native projects like [Kubernetes](https://github.com/kubernetes/kubernetes) and have created and/or maintain the following open-source repos:
+
+<a href="https://github.com/clusternet/clusternet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clusternet&repo=clusternet" />
+</a>
+<a href="https://github.com/clusternet/kubectl-clusternet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clusternet&repo=kubectl-clusternet" />
+</a>
+<a href="https://github.com/dixudx/rtcclient">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixudx&repo=rtcclient" />
+</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=dixudx&theme=buefy&show_icons=true)
 
 ---
-<!--
-**dixudx/dixudx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
   <img alt="Docker" src="https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=767676">
@@ -30,5 +34,3 @@ Here are some ideas to get you started:
   <img alt="Java" src="https://img.shields.io/static/v1?style=flat&logo=Java&label=&message=Java&color=767676">
 </p>
 
-- 🔭 I’m currently working on cloud native stuffs, like Kubernetes, containerd and etc.
-- 👍 I’m looking to collaborate on projects that empower cloud native productivity.

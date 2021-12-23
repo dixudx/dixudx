@@ -9,15 +9,19 @@ Hi there! 👋 I'm Di Xu.
 
 In the past few years I've been working heavily in cloud native projects like [Kubernetes](https://github.com/kubernetes/kubernetes) and have created and/or maintain the following open-source repos:
 
-<a href="https://github.com/clusternet/clusternet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clusternet&repo=clusternet" />
+<a href="https://github.com/clusternet/clusternet" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clusternet&repo=clusternet&show_owner=true" />
 </a>
+<br>
 <a href="https://github.com/clusternet/kubectl-clusternet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clusternet&repo=kubectl-clusternet" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=clusternet&repo=kubectl-clusternet&show_owner=true" />
 </a>
 <a href="https://github.com/dixudx/rtcclient">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dixudx&repo=rtcclient" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dixudx&repo=rtcclient&show_owner=true" />
 </a>
+
+<br>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=dixudx&theme=buefy&show_icons=true)
 

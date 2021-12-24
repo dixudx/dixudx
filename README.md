@@ -23,7 +23,7 @@ In the past few years I've created and/or maintained the following open-source r
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=dixudx&theme=buefy&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=dixudx&theme=buefy&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 <p align="center">

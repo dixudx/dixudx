@@ -25,16 +25,25 @@ In the past few years I've created and/or maintained the following open-source r
 
 ![](https://github-readme-stats.vercel.app/api?username=dixudx&theme=buefy&show_icons=true&include_all_commits=true&count_private=true)
 
----
-<p align="center">
-  <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&logo=Kubernetes&label=&message=Kubernetes&color=767676">
-  <img alt="Docker" src="https://img.shields.io/static/v1?style=flat&logo=Docker&label=&message=Docker&color=767676">
-  <img alt="Openstack" src="https://img.shields.io/static/v1?style=flat&logo=Openstack&label=&message=Openstack&color=767676">
-</p>
+**Languages and Tools**
 
-<p align="center">
-  <img alt="Golang" src="https://img.shields.io/static/v1?style=flat&logo=Go&label=&message=Golang&color=767676">
-  <img alt="Python" src="https://img.shields.io/static/v1?style=flat&logo=Python&label=&message=Python&color=767676">
-  <img alt="Java" src="https://img.shields.io/static/v1?style=flat&logo=Java&label=&message=Java&color=767676">
-</p>
+<p>
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/cncfio/cncfio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/containerdio/containerdio-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/openstack/openstack-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg"></code>
+<br/>
+
+</p>

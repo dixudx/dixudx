@@ -5,7 +5,7 @@
 Hi there! 👋 I'm Di Xu.
 
 - 🔭 I’m currently working heavily on cloud native projects, like [Kubernetes](https://github.com/kubernetes/kubernetes), [Clusternet](https://github.com/clusternet/clusternet) and etc.
-- 👍 I’m looking to collaborate on projects that empower cloud native productivity.
+- 👍 I’m looking to collaborate on projects that empower cloud native productivity, like [yacht](https://github.com/dixudx/yacht).
 
 In the past few years I've created and/or maintained the following open-source repos:
 
@@ -15,6 +15,9 @@ In the past few years I've created and/or maintained the following open-source r
 <br>
 <a href="https://github.com/clusternet/kubectl-clusternet">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=clusternet&repo=kubectl-clusternet&show_owner=true" />
+</a>
+<a href="https://github.com/dixudx/yacht">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dixudx&repo=yacht&show_owner=true" />
 </a>
 <a href="https://github.com/dixudx/rtcclient">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dixudx&repo=rtcclient&show_owner=true" />
